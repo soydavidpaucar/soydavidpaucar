@@ -1,5 +1,5 @@
 # 💫About Me :
-I'm a Software Engineer with 3+ experience
+ I am a solution-driven Software Engineer adept at contributing to highly collaborative work environment, finding solutions and determining customer satisfaction. Proven experience developing consumer-focused web applications using React.JS, JavaScript, PHP, NoSQL and SQL Databases. Built products for desktop and mobile users over +3 years of expertise, meeting highest standards for web design, user experience, best practices and speed. Designed and developed web applications across multiple APIs, third-party integrations and databases. 
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/david-paucar) 
